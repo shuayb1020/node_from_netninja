@@ -1,0 +1,56 @@
+body{
+    background-color: skyblue;
+    font-family: vardana;
+    color: #fff;
+    padding: 30px;
+}
+h1{
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+p,li{
+    font-size: 36px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+label{
+    display: block;
+    text-align: left;
+    margin: 10px 210px;
+
+}
+input{
+    width: 50%;
+    padding: 6px 10px;
+    margin: 10px 210px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+
+}
+li a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+}
+
+
